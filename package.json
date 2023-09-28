@@ -1,8 +1,8 @@
 {
-  "name": "react-typeScript-chrome-extension-template",
-  "private": false,
-  "version": "1.0.0",
+  "name": "nbro",
+  "packageManager": "yarn@4.0.0-rc.48",
   "type": "module",
+  "version": "0.0.1",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
